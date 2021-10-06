@@ -1,0 +1,19 @@
+{
+  "name": "chaos-labs-sqs-sender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChaosLabsInc/chaos-labs-sqs-sender.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@actions/core": "^1.6.0",
+    "aws-sdk": "^2.1001.0"
+  }
+}
